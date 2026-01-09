@@ -117,7 +117,7 @@ elif operation == '/':
 print(f"The result of {first_number} {operation} {second_number} is: {result}")
 ```
 
-## AI-assisted improvements
+## AI Collaboration Log
 I used an AI assistant to help refactor and improve the script's input validation and user interaction. The AI suggested replacing the one-shot prompts and immediate exit() calls with while loops that re-prompt until valid input is provided, improving robustness and user experience. The AI also helped polish messaging and suggested further enhancements (command-line arguments, tests, etc.).
 
 Prompt used (verbatim):

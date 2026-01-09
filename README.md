@@ -117,6 +117,14 @@ elif operation == '/':
 print(f"The result of {first_number} {operation} {second_number} is: {result}")
 ```
 
+## AI-assisted improvements
+I used an AI assistant to help refactor and improve the script's input validation and user interaction. The AI suggested replacing the one-shot prompts and immediate exit() calls with while loops that re-prompt until valid input is provided, improving robustness and user experience. The AI also helped polish messaging and suggested further enhancements (command-line arguments, tests, etc.).
+
+Prompt used (verbatim):
+```
+This code works great, the only thing I want fixed is instead of exit() after an invalid input, I want to prompt the user again. It needs to do so until a valid input has been accepted. Do it for all three prompts
+```
+
 ## Suggestions & Possible Enhancements
 
 - Allow an exit command like `q` or `quit` at each prompt.

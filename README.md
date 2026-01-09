@@ -130,10 +130,6 @@ print(f"The result of {first_number} {operation} {second_number} is: {result}")
 
 Contributions and improvements are welcome. Please open an issue or submit a pull request with a clear description of the change.
 
-## License
-
-This project can be licensed under the MIT License — or choose another license you prefer. Replace this section with the appropriate license text.
-
 ## Author
 
 nathan-hammond-uvu

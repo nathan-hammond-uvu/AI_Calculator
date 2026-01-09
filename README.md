@@ -125,7 +125,7 @@ Prompt used (verbatim):
 This code works great, the only thing I want fixed is instead of exit() after an invalid input, I want to prompt the user again. It needs to do so until a valid input has been accepted. Do it for all three prompts
 ```
 
-This was the AI's responce back
+This was the AI's response back
 ```
 Now I'll modify the code to use while loops for all three prompts so the user gets re-prompted until valid input is provided:
 
